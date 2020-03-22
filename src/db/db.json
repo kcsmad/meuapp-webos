@@ -1,0 +1,52 @@
+{
+  "animes": [
+    {
+      "title": "Netero vs. Meruem P1",
+      "thumbnail": "hunterxhunter.jpg",
+      "video": "ojYT9Sh4apQ",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "title": "Ainz Ooal Gown vs. Shalltear BloodFallen",
+      "thumbnail": "overlord.jpg",
+      "video": "02pmPMCWHGo",
+      "anime": "Overlord"
+    },
+    {
+      "title": "Tatsuya Shiba vs. Masaki Ichijou",
+      "thumbnail": "mahouka.jpg",
+      "video": "ioTOHqw8Cgk",
+      "anime": "Mahouka Kokou no Rettousei"
+    },
+    {
+      "title": "Abyssal Shaft Party vs. Ruseato of Seventh Garden",
+      "thumbnail": "log-horizon.jpg",
+      "video": "iVKx93P-Pm4",
+      "anime": "Log Horizon"
+    },
+    {
+      "title": "Aladdin vs. Leam Empire",
+      "thumbnail": "magi.jpg",
+      "video": "uudDcF104Qg",
+      "anime": "Magi"
+    },
+    {
+      "title": "Gilgamesh vs. Berserker",
+      "thumbnail": "fate-night.jpg",
+      "video": "w4h68aVRiNQ",
+      "anime": "Fate/Stay Night UBW"
+    },
+    {
+      "title": "Mustang vs. Envy",
+      "thumbnail": "fma-brotherhood.jpg",
+      "video": "A-5XmgX3f68",
+      "anime": "Fullmetal Alchemist Brotherhood"
+    },
+    {
+      "title": "Rin vs. Amaimon",
+      "thumbnail": "blue-exorcist.png",
+      "video": "vit1XXpS4ew",
+      "anime": "Ao no Exorcist"
+    }
+  ]
+}
