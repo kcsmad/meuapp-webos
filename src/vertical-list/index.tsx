@@ -48,14 +48,23 @@ const VerticalList = ({ startIndex = 0, items , onSelectedItem }: Props) => {
    }, [activeIndex]
   );
 
+  const translationValue = activeIndex * 280;
+
   return (
-    <div className="vertical-list">
+    <div
+      className="vertical-list"
+      style={{
+        transform: `translateY(${-translationValue}px)`,
+        msTransform: `translateY(${-translationValue}px)`,
+        OTransform: `translateY(${-translationValue}px)`,
+        WebkitTransform: `translateY(${-translationValue}px)`,
+      }}
+    >
       { items.length > 0
         ? items.map((item, index) => (
           <VideoThumb
             hasFocus={activeIndex === index}
             key={`${index}-${item.title}`}
-            translationValue={activeIndex * 280}
             {...item}
           />
         ))
