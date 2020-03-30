@@ -1,0 +1,6 @@
+@mixin transition($parameters...) {
+  -webkit-transition: $parameters;
+  -moz-transition: $parameters;
+  -o-transition: $parameters;
+  transition: $parameters;
+}

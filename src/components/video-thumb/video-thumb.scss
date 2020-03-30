@@ -3,11 +3,6 @@
   margin-bottom: 20px;
   border: 5px solid transparent;
   height: 250px;
-  transition: transform .4s ease-in-out,-webkit-transform .5s ease-in-out;
-  -webkit-transition: transform .4s ease-in-out,-webkit-transform .5s ease-in-out;
-  -moz-transition: transform .4s ease-in-out,-webkit-transform .5s ease-in-out;
-  -ms-transition: transform .4s ease-in-out,-webkit-transform .5s ease-in-out;
-  -o-transition: transform .4s ease-in-out,-webkit-transform .5s ease-in-out;
 
   &.video-active {
     background-color: white;
